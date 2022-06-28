@@ -25,6 +25,7 @@
 
 ################################################################################
 # Imports
+from cmath import inf
 from re import A
 from threading import activeCount
 from webbrowser import get
@@ -263,13 +264,14 @@ st.sidebar.write(wage)
 # variable named `transaction_hash`, and have it display on the application’s
 # web interface.
 
+
 if st.sidebar.button("Send Transaction"):
 
     # @TODO
     # Call the `send_transaction` function and pass it 3 parameters:
     # Your `account`, the `candidate_address`, and the `wage` as parameters
     # Save the returned transaction hash as a variable named `transaction_hash`
-    
+
 
     # Markdown for the transaction hash
     st.sidebar.markdown("#### Validated Transaction Hash")
