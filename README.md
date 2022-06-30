@@ -39,4 +39,7 @@ When you're ready to hit the trigger, press the `Send Transaction` button. This 
 
 ![Send Transaction](Images/send_transaction_hash.png)
 
+To further confirm this transaction occured. I have included below the Gnash account balance from the address used in the transaction, and the recorded transaction from Gnash respectively:
 
+![Gnash Account](Images/gnash_account_address.png)
+![Gnash Transaction](Images/gnash_transaction.png)
