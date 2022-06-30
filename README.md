@@ -33,13 +33,20 @@ The output shown includes:
 * Fintech Professional Address
 * Fintech Professional Total Wage in Ether
 
-![Sidebar](Images/sidebar_eg.png)
-
 When you're ready to hit the trigger, press the `Send Transaction` button. This will send the transaction to Ash's address and provides you with the validated transaction hash.
 
-![Send Transaction](Images/send_transaction_hash.png)
+
+Select a Fintech Professional             |  Send the Transaction
+:-------------------------:|:-------------------------:
+![Select](Images/sidebar_eg.png)   |  ![Selected Block Inspector](Images/send_transaction_hash.png)
+
+
+---
 
 To further confirm this transaction occured. I have included below the Gnash account balance from the address used in the transaction, and the recorded transaction from Gnash respectively:
 
 ![Gnash Account](Images/gnash_account_address.png)
 ![Gnash Transaction](Images/gnash_transaction.png)
+
+
+
