@@ -43,10 +43,10 @@ Select a Fintech Professional             |  Send the Transaction
 
 ---
 
-To further confirm this transaction occured. I have included below the Gnash account balance from the address used in the transaction, and the recorded transaction from Gnash respectively:
+To further confirm this transaction occured. I have included below the Ganash account balance from the address used in the transaction, and the recorded transaction from Ganash respectively:
 
-![Gnash Account](Images/gnash_account_address.png)
-![Gnash Transaction](Images/gnash_transaction.png)
+![Ganash Account](Images/gnash_account_address.png)
+![Ganash Transaction](Images/gnash_transaction.png)
 
 
 
